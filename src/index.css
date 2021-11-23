@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Fira Sans';
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+code {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+  border-radius: 750px;
+  width: 250px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+p{
+  color: blue;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
